@@ -1,0 +1,20 @@
+{
+  "responseId": "559448b2-7f48-41d6-ae17-891bd9eaa815-aabf4fdf",
+  "queryResult": {
+    "queryText": "สวัสดี{Nickname}ยินดีต้อนรับเข้ากลุ่ม",
+    "parameters": {},
+    "outputContexts": [
+      {
+        "name": "projects/bot977-wpbm/agent/sessions/0733cc75-b8da-2e45-97b0-e3b7af6e8c9c/contexts/__mega_agent_context__",
+        "lifespanCount": 2147483647,
+        "parameters": {
+          "__most_recent_agent_ids__": [
+            "3141f849-f4ad-41c5-b351-45e2097bfba0",
+            "3141f849-f4ad-41c5-b351-45e2097bfba0"
+          ]
+        }
+      }
+    ],
+    "languageCode": "th"
+  }
+}
